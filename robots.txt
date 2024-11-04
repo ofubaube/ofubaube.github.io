@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofubaube.github.io/Okh/sitemap_index.txt
+Sitemap: https://ofubaube.github.io/ThS/sitemap_index.txt
+Sitemap: https://ofubaube.github.io/euC/sitemap_index.txt
+Sitemap: https://ofubaube.github.io/vTs/sitemap_index.txt
